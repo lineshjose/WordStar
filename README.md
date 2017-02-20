@@ -4,16 +4,27 @@ Wordstar is a clean, blog-focused, and designed for clarity, simple, straightfor
 
 ![beautiful screenshot](https://i0.wp.com/themes.svn.wordpress.org/wordstar/3.6/screenshot.png)
 
-Features :
-Coded in HTML5 and CSS3
-Simple and Responsive layout.
-Custom Header
-Custom Background
-Custom Logo
-2 Custom Menu Locations.
-2 Columns.
-Widget Ready.
-Fast loading structure
-Well-commented CSS and theme PHP files for flexible customization.
-Multi-browser compatibility. Tested under modern w3c compliant browsers. Firefox , Opera ,Safari and Chrome.
-Free of cost
+## Features
+
+1.	Coded in HTML5 and CSS3
+2. Simple and Responsive layout.
+3. Custom Header
+4. Custom Background
+5. Custom Logo
+6. Custom Menu Locations.
+7. Columns.
+8. Widget Ready.
+9. Fast loading structure
+10. Well-commented CSS and theme PHP files for flexible customization.
+11. Multi-browser compatibility. Tested under modern w3c compliant browsers. Firefox , Opera ,Safari and Chrome.
+12. Free of cost
+
+## Download
+Yoy can download latest version from [download](https://wordpress.org/themes/wordstar/).
+
+## Troubleshooting
+If you have any problems running WordStar, [Forum](https://linesh.com/forums/forum/themes/wordstar/).
+
+
+## License
+WordStar is licensed under [GNU General Public License v2 (or later)](./LICENSE.md).
