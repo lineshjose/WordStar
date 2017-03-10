@@ -2,7 +2,7 @@
 
 Wordstar is a clean, blog-focused, and designed for clarity, simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. This theme, like WordPress, is licensed under the GPL. Use it to make something cool, have fun, and share what you’ve learned with others.
 
-![beautiful screenshot](https://i0.wp.com/themes.svn.wordpress.org/wordstar/3.6/screenshot.png)
+![beautiful screenshot](./screenshot.png)
 
 ## Features
 
