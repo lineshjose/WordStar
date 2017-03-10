@@ -20,7 +20,7 @@ Wordstar is a clean, blog-focused, and designed for clarity, simple, straightfor
 12. Free of cost
 
 ## Download
-Yoy can download latest version from [WordPress.org](https://wordpress.org/themes/wordstar/).
+You can download latest version from [WordPress.org](https://wordpress.org/themes/wordstar/).
 
 ## Troubleshooting
 If you have any problems running WordStar, [Support Forum](https://linesh.com/forums/forum/themes/wordstar/).
